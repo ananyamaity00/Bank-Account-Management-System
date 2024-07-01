@@ -8,9 +8,13 @@ Bal = 0
 
 def createAcounts():
     acountNo = int(input("Enter Account Number: "))
+    
     CusName = input("Enter Customer Name: ")
+    
     BCode = input("Enter Bank Code: ")
+    
     Mobile = int(input("Enter Mobile Number: "))
+    
     print("Account Created Successfully: ")
 
 def ShowAcountDetails():
