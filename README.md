@@ -1,4 +1,5 @@
 # Bank-Account-Management-System
+# A Python bank account management system tracks transactions and balances, making banking easier and more efficient.
 
 acountNo = 0
 
